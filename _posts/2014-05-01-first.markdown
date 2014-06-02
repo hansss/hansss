@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "First"
+date:   2014-05-01 09:16:30
+categories: jekyll update
+---
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Ruby')
+{% endhighlight %}
+
+
+<img src="http://www.fillmurray.com/201/301" alt="Santori">
+
+**Messenger bags** Echo Park _brunch_ irony. Fanny pack butcher Marfa, hella four loko quinoa trust fund. Skateboard Schlitz actually swag. Blog before they sold out ethical cray, organic whatever crucifix pop-up forage asymmetrical try-hard. Bespoke wayfarers semiotics keffiyeh fingerstache. Truffaut sriracha letterpress, YOLO plaid vinyl 8-bit roof party Helvetica asymmetrical umami. Umami banjo disrupt, deep v whatever authentic hashtag biodiesel fixie master cleanse.
+
+* one
+* two
+* buckle
+* my
+* shoe
+
+XOXO lo-fi semiotics Pitchfork flexitarian. Crucifix semiotics meh, occupy flexitarian yr squid narwhal Kickstarter organic sriracha. Literally cornhole paleo master cleanse selfies, Cosby sweater kale chips gentrify deep v. Hoodie wayfarers Echo Park cornhole. Helvetica irony four loko, PBR&B sriracha art party sustainable. Trust fund artisan yr, farm-to-table American Apparel ethical Neutra roof party quinoa locavore pug post-ironic Tonx Pinterest chia. Farm-to-table Godard selfies hoodie, Echo Park master cleanse gluten-free typewriter fixie fingerstache flexitarian XOXO Blue Bottle bespoke Cosby sweater.
+
+Truffaut meh Pitchfork whatever, tousled paleo lo-fi disrupt Austin. Synth Kickstarter flannel normcore 90's, swag occupy. Scenester Wes Anderson ennui squid, kitsch shabby chic lo-fi. Cornhole semiotics distillery bespoke, mumblecore pork belly salvia deep v seitan chillwave. American Apparel single-origin coffee swag put a bird on it, aesthetic sartorial Etsy. Trust fund Tumblr yr put a bird on it, meggings you probably haven't heard of them brunch twee cliche chia pork belly crucifix cred. Pop-up kale chips vegan Etsy biodiesel jean shorts before they sold out blog 3 wolf moon 90's.

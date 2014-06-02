@@ -1,0 +1,16 @@
+<div class='contact'>
+  <p>
+    {% for link in site.data.social %}
+      <a href = "{{link.url}}">{{link.name}}
+      </a><br/>
+    {% endfor %}
+</div>
+
+
+
+<div class="footer-col-1 column">
+  <ul>
+    <li>{{ site.title }}</li>
+    <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+  </ul>
+</div>
